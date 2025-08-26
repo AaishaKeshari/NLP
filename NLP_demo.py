@@ -71,4 +71,4 @@ df_sentiment_examples = pd.DataFrame({
 st.subheader("Clearly Positive vs Negative Examples")
 st.dataframe(df_sentiment_examples, use_container_width=True)
 
-Fix: Download vader_lexicon at runtime
+
